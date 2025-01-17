@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im Emmanuel mulwa frontend engineer with also backend capabilities
+Frontend Engineer passionate about crafting intuitive and performant user interfaces. I enjoy collaborating with backend teams to deliver exceptional full-stack solutions. My expertise lies in modern JavaScript frameworks like React, React Native and Next.JS, along with a solid understanding of HTML, CSS, and backend concepts. I am always eager to learn new technologies and approaches to improve the user experience.
 
 
 # 💻 Tech Stack:
